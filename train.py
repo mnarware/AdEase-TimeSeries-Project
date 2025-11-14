@@ -1,1 +1,1 @@
-print("Train my model")
+print("Train my model of logistics regression")
