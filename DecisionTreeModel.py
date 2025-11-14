@@ -1,1 +1,1 @@
-print("This is Decision Tree model")
+print("This is Decision Tree or Classification Tree model")
